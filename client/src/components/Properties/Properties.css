@@ -1,0 +1,9 @@
+.btn {
+    margin: 0px 1%;
+}
+.card{
+    border: solid 1px;
+    border-color: gray;
+    width: 70%;
+    margin: 5% auto;
+}
